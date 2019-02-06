@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsegnaAndroid</string>
+    <string name="win_x">Ha vinto X</string>
+    <string name="win_o">Ha vinto O</string>
+    <string name="pareggio">DRAW</string>
+    <string name="gioco_o">Gioca con O</string>
+    <string name="gioco_x">Gioca con x</string>
+</resources>
