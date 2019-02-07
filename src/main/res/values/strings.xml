@@ -5,4 +5,5 @@
     <string name="pareggio">DRAW</string>
     <string name="gioco_o">Gioca con O</string>
     <string name="gioco_x">Gioca con x</string>
+    <string name="cont">Conteggio punti:</string>
 </resources>
