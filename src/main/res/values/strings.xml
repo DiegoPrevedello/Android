@@ -1,9 +1,26 @@
 <resources>
-    <string name="app_name">ConsegnaAndroid</string>
-    <string name="win_x">Ha vinto X</string>
-    <string name="win_o">Ha vinto O</string>
+    <string name="app_name">TRIS</string>
+    <string name="win">YOU WIN!</string>
+    <string name="lose">YOU LOSE!</string>
     <string name="pareggio">DRAW</string>
-    <string name="gioco_o">Gioca con O</string>
-    <string name="gioco_x">Gioca con x</string>
-    <string name="cont">Conteggio punti:</string>
+    <string name="gioco_o">Play with <b>O</b></string>
+    <string name="gioco_x">Play with <b>X</b></string>
+    <string name="cont">Score :</string>
+    <string name="back">Close Game </string>
+    <string name="end">Finish Game </string>
+    <string name="tris"><b>TRIS \n I.T.I.S Zuccante</b></string>
+    <string name="start">PLAY</string>
+    <string name="best3"> Best of 3!</string>
+    <string name="best5"> Best of 5!</string>
+    <string name="free"> Free game</string>
+    <string name="choice">Choose</string>
+    <string name="row">↑</string>
+    <string name="scoreX">score X</string>
+    <string name="scoreO">score O</string>
+    <string name="winX">X \n has Win!</string>
+    <string name="winO">O \n has Win!</string>
+
+
+
+
 </resources>
